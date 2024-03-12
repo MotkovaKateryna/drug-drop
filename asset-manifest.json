@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.51ece968.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.51ece968.js.map": "/react-homework-template/static/js/main.51ece968.js.map"
+    "main.css": "/drug-drop/static/css/main.7acaea2f.css",
+    "main.js": "/drug-drop/static/js/main.51ece968.js",
+    "index.html": "/drug-drop/index.html",
+    "main.7acaea2f.css.map": "/drug-drop/static/css/main.7acaea2f.css.map",
+    "main.51ece968.js.map": "/drug-drop/static/js/main.51ece968.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
