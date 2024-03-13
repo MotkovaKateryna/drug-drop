@@ -1,15 +1,5 @@
 import styled from 'styled-components';
 
-
-export const StyledImg = styled.img`
-    width: 100%;
-  height: 268px;
-  object-fit: cover;
-
-  border-radius: 14px;
-`
-
-
 export const StyledThumb = styled.div`
 width: 100vw;
 height: 100vh;
