@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/drug-drop/static/css/main.b5c0f461.css",
-    "main.js": "/drug-drop/static/js/main.1b597356.js",
+    "main.js": "/drug-drop/static/js/main.38f0a333.js",
     "index.html": "/drug-drop/index.html",
     "main.b5c0f461.css.map": "/drug-drop/static/css/main.b5c0f461.css.map",
-    "main.1b597356.js.map": "/drug-drop/static/js/main.1b597356.js.map"
+    "main.38f0a333.js.map": "/drug-drop/static/js/main.38f0a333.js.map"
   },
   "entrypoints": [
     "static/css/main.b5c0f461.css",
-    "static/js/main.1b597356.js"
+    "static/js/main.38f0a333.js"
   ]
 }
